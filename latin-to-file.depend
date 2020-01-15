@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579053854 source:c:\latin-to-file\latin-to-file\main.cpp
+	<locale>
+	<codecvt>
+	<fstream>
+	<iostream>
+	<io.h>
+	<fcntl.h>
+	<Windows.h>
+	<string>
+
